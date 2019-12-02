@@ -11,6 +11,8 @@
     "react-scripts": "1.0.14"
   },
   "dependencies": {
+    "mobx": "^5.15.0",
+    "mobx-react": "^6.1.4",
     "react": "^16.0.0",
     "react-apollo": "^1.4.16",
     "react-dom": "^16.0.0",
